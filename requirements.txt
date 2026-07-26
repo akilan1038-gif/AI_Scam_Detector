@@ -1,5 +1,6 @@
-streamlit
+Flask
+gunicorn
+joblib
 pandas
 scikit-learn
 numpy
-joblib
